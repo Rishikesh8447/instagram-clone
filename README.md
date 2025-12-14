@@ -1,2 +1,7 @@
-# instagram-clone
-Mini Instagram Backend using Node.js and MongoDB
+# Instagram Mini Clone
+## Features
+- User authentication
+- Create posts
+- Follow / Unfollow users
+- Like posts
+- Feed API
